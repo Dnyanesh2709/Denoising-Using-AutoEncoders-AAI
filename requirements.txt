@@ -1,0 +1,5 @@
+streamlit
+numpy
+pillow
+keras==3.10.0
+tensorflow-cpu
